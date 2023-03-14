@@ -1,11 +1,10 @@
 # Les mémoires
 
-## Les mémoires vives
-Ce sont des mémoires qui perdent leur contenu sans alimentation. Il exite deux types:
+## les mémoires vives
+Ce sont des mémoires qui perdent leur contenu sans alimentation. Il en existe deux types:
 1. les SRAM
-2. les DRAM
+2. Les DRAM
 
 Les SRAM sont les:
--[X] plus rapide
--[ ] moins rapides
-
+- [X] plus rapides
+- [ ] moins rapides
