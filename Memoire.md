@@ -6,4 +6,6 @@ Ce sont des mémoires qui perdent leur contenu sans alimentation. Il exite deux 
 2. les DRAM
 
 Les SRAM sont les:
+[x] plus rapide
+[] moins rapides
 
