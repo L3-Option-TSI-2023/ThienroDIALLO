@@ -13,3 +13,8 @@ Les SRAM sont les:
   Par définition une mémoires est un dispositif permettant le stockage d'information:
   * Les informations sont applées des données
   * chaque donnée possède une adresse.
+Il est important de noter que les caractéristique d'une **mémoire** sont données par:
+  * Sa technologie
+  * Son organisation interne
+  * Sa capacité
+  * Le temps d'accès en nanoseconde(ns).
