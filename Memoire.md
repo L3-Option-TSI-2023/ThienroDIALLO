@@ -40,13 +40,13 @@ Il existe deux grandes catégories de mémoires:
   ## Classification mémoires
   
   1. Mémoires Vives(RAM)
-    * RAM statiques(SRAM)
-    * RAM dynamique(DRAM)
+     * RAM statiques(SRAM)
+     * RAM dynamique(DRAM)
   2. Mémoires Mortes(ROM)
-    * ROM
-    * PROM
-    * EPROM
-    * EEPROM
+     * ROM
+      * PROM
+       * EPROM
+     * EEPROM
       1. Flash
     
   
