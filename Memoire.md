@@ -8,5 +8,5 @@ Ce sont des mémoires qui perdent leur contenu sans alimentation. Il en existe d
 Les SRAM sont les:
 - [X] plus rapides
 - [ ] moins rapides
-<h1 color ="cyan"> B.Résumer des mémoires </h1>
+## B.Resumer des mémoires
 
