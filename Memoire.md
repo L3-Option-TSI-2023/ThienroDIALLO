@@ -21,3 +21,7 @@ Il est important de noter que les caractéristique d'une **mémoire** sont donn�
   * Le temps d'accès en nanoseconde(ns).
   
 ## Types de mémoires
+Il existe deux grandes catégories de mémoires:
+** Mémoires vives ou volatiles 
+
+** Mémoires mortes ou permanentes
