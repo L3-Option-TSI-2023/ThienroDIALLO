@@ -19,3 +19,5 @@ Il est important de noter que les caractéristique d'une **mémoire** sont donn�
   * Son organisation interne
   * Sa capacité
   * Le temps d'accès en nanoseconde(ns).
+  
+## Types de mémoires
