@@ -10,3 +10,6 @@ Les SRAM sont les:
 - [ ] moins rapides
 
 ## Résumer des mémoires
+  Par définition une mémoires est un dispositif permettant le stockage d'information:
+  * Les informations sont applées des données
+  * chaque donnée possède une adresse.
