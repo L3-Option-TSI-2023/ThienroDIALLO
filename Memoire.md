@@ -47,6 +47,6 @@ Il existe deux grandes catégories de mémoires:
       * PROM
        * EPROM
      * EEPROM
-      1. Flash
+        1. Flash
     
   
