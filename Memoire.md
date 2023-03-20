@@ -10,3 +10,4 @@ Les SRAM sont les:
 - [ ] moins rapides
 ## Resumer des mémoires
 <h1> Resumer des mémoires </h1>
+<h6> Resumer des mémoires </h6>
