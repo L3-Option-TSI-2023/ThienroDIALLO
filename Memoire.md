@@ -23,6 +23,13 @@ Il est important de noter que les caractéristique d'une **mémoire** sont donn�
 ## Types de mémoires
 Il existe deux grandes catégories de mémoires:
 
-* **Mémoires vives ou volatiles 
+* **Mémoires vives ou volatiles**(RAM: Random Access Memory):  Il s'agit d'une mémoire volatile,
+  ce qui signifie que son contenu est perdu lorsque l'ordinateur est éteint.
+  La RAM est utilisée pour stocker les données et les programmes en cours d'exécution par le processeur de l'ordinateur,
+  permettant un accès rapide aux données.
+  
+  [Logo Grafikart.fr](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/4mbramvax.jpg/1920px-4mbramvax.jpg)
 
-* **Mémoires mortes ou permanentes
+* **Mémoires mortes ou permanentes**(ROM :  La ROM est une mémoire non volatile, ce qui signifie que son contenu est conservé même lorsque l'ordinateur est éteint. Elle est utilisée pour stocker des données qui ne doivent pas être modifiées,
+telles que le BIOS d'un ordinateur ou le micrologiciel d'un dispositif électronique.
+  
