@@ -37,4 +37,16 @@ Il existe deux grandes catégories de mémoires:
   telles que le BIOS d'un ordinateur ou le micrologiciel d'un dispositif électronique.
   
   Pour plus d'information [cliquez sur le lien](https://fr.wikipedia.org/wiki/M%C3%A9moire_(informatique)
+  ## Classification mémoires
+  
+  1. Mémoires Vives(RAM)
+    * RAM statiques(SRAM)
+    * RAM dynamique(DRAM)
+  3. Mémoires Mortes(ROM)
+    * ROM
+    * PROM
+    * EPROM
+    * EEPROM
+      a. Flash
+    
   
