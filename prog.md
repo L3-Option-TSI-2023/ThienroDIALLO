@@ -13,6 +13,14 @@ En revanche, les processeurs **CISC** ont un jeu d'instructions plus complexe, q
 Il est important de noter que la distinction entre les processeurs RISC et CISC n'est pas toujours nette, car les concepteurs de processeurs ont tendance à emprunter des caractéristiques des deux architectures pour créer des processeurs hybrides. Cependant, certaines des architectures de processeurs RISC et CISC les plus populaires incluent :
 
 ## Processeurs **RISC** :
+* ARM (Advanced RISC Machines)
+* MIPS(Microprocessor without Interlocked Pipeline Stages)
+* PowerPC(Performance Optimization with Enhanced RISC-Performance Computing)
+
+## Processeurs **CISC**
+* Intel x86
+* AMD64 (x86-64)
+* DEC Alpha
 
 
 
