@@ -31,7 +31,7 @@ L'architecture de von Neumann (ou architecture de Princeton) est la plus ancienn
 
 # b. ARCHITECTURE DE HARVARD :
 En revanche, l'architecture de Harvard utilise deux mémoires séparées pour stocker les instructions et les données. Cette séparation permet d'accéder simultanément aux instructions et aux données, ce qui peut améliorer les performances du système. Cependant, cela signifie également que la mémoire doit être divisée en deux parties distinctes, ce qui peut limiter la flexibilité de l'utilisation de la mémoire.
-un schema en guise d'ullustration:
+un schema en guise d'ullustration: ![Logo Grafikart.fr](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/4mbramvax.jpg/1920px-4mbramvax.jpg)
 
 
 En résumé, l'architecture de von Neumann est plus flexible mais peut causer des goulots d'étranglement, tandis que l'architecture de Harvard est plus rapide mais moins flexible. De nombreuses architectures de processeurs modernes combinent des éléments des deux architectures pour atteindre un équilibre entre la flexibilité et la vitesse de traitement.
