@@ -29,7 +29,7 @@ Il est important de noter que la distinction entre les processeurs RISC et CISC 
 # a. ARCHITECTURE DE VON NEUMANN :
 L'architecture de von Neumann (ou architecture de Princeton) est la plus ancienne et la plus courante des deux. Dans ce type d'architecture, les programmes et les données sont stockés dans la même mémoire, et le processeur accède à cette mémoire pour récupérer les instructions et les données nécessaires à l'exécution du programme. Cela permet une grande flexibilité dans l'utilisation de la mémoire, car elle peut être partagée entre les données et les instructions. Cependant, cela peut également entraîner des goulots d'étranglement lorsqu'il y a une forte demande d'accès à la mémoire.
 
-Un shéma en guise d'ullustration :  ![Logo Grafikart.fr](https://image.slidesharecdn.com/harvardarchitecture-120315073904-phpapp02/95/harvard-architecture-2-1024.jpg?cb=1331797532)
+Un shéma en guise d'ullustration :  ![Logo Grafikart.fr](https://media.geeksforgeeks.org/wp-content/uploads/basic_structure.png)
 # b. ARCHITECTURE DE HARVARD :
 En revanche, l'architecture de Harvard utilise deux mémoires séparées pour stocker les instructions et les données. Cette séparation permet d'accéder simultanément aux instructions et aux données, ce qui peut améliorer les performances du système. Cependant, cela signifie également que la mémoire doit être divisée en deux parties distinctes, ce qui peut limiter la flexibilité de l'utilisation de la mémoire.
 
