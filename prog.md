@@ -22,7 +22,7 @@ Il est important de noter que la distinction entre les processeurs RISC et CISC 
 * AMD64 (x86-64)
 * DEC Alpha
 
-# 2. Architecture de Von Neumann et d'Harvard
+# 2. Architecture de Von Neumann et Harvard
 
 **Harvard** et **von Neumann** sont deux architectures de base pour les ordinateurs.
 
