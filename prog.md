@@ -17,10 +17,12 @@ Il est important de noter que la distinction entre les processeurs RISC et CISC 
 * MIPS(Microprocessor without Interlocked Pipeline Stages)
 * PowerPC(Performance Optimization with Enhanced RISC-Performance Computing)
 
-## Processeurs **CISC**
+## Processeurs **CISC** :
 * Intel x86
 * AMD64 (x86-64)
 * DEC Alpha
+
+# Harvard et Von Neuman
 
 
 
