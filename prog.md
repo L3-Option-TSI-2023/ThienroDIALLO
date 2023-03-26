@@ -1,7 +1,7 @@
 # ThienroDIALLO
 
 
-## Les processeurs **RISC ET CISC**
+# Les processeurs **RISC ET CISC**
 Les processeurs RISC (Reduced Instruction Set Computing) et CISC (Complex Instruction Set Computing) sont deux architectures de processeurs différentes.
 
 Un processeur **RISC** utilise un jeu d'instructions simple et uniforme, ce qui lui permet d'exécuter des instructions plus rapidement que les processeurs CISC. Les processeurs RISC ont généralement un nombre limité d'instructions, mais chaque instruction peut être exécutée en un seul cycle d'horloge.
@@ -12,7 +12,7 @@ En revanche, les processeurs **CISC** ont un jeu d'instructions plus complexe, q
 
 Il est important de noter que la distinction entre les processeurs RISC et CISC n'est pas toujours nette, car les concepteurs de processeurs ont tendance à emprunter des caractéristiques des deux architectures pour créer des processeurs hybrides. Cependant, certaines des architectures de processeurs RISC et CISC les plus populaires incluent :
 
-# Processeurs **RISC** :
+## Processeurs **RISC** :
 
 
 
