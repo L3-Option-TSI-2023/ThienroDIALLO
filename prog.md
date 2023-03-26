@@ -22,7 +22,17 @@ Il est important de noter que la distinction entre les processeurs RISC et CISC 
 * AMD64 (x86-64)
 * DEC Alpha
 
-# 2. Harvard et Von Neuman
+# 2. Architecture de Von Neumann et d'Harvard
+
+**Harvard** et **von Neumann** sont deux architectures de base pour les ordinateurs.
+
+# a. ARCHITECTURE DE VON NEUMANN :
+L'architecture de von Neumann (ou architecture de Princeton) est la plus ancienne et la plus courante des deux. Dans ce type d'architecture, les programmes et les données sont stockés dans la même mémoire, et le processeur accède à cette mémoire pour récupérer les instructions et les données nécessaires à l'exécution du programme. Cela permet une grande flexibilité dans l'utilisation de la mémoire, car elle peut être partagée entre les données et les instructions. Cependant, cela peut également entraîner des goulots d'étranglement lorsqu'il y a une forte demande d'accès à la mémoire.
+
+# b. ARCHITECTURE DE HARVARD :
+En revanche, l'architecture de Harvard utilise deux mémoires séparées pour stocker les instructions et les données. Cette séparation permet d'accéder simultanément aux instructions et aux données, ce qui peut améliorer les performances du système. Cependant, cela signifie également que la mémoire doit être divisée en deux parties distinctes, ce qui peut limiter la flexibilité de l'utilisation de la mémoire.
+
+En résumé, l'architecture de von Neumann est plus flexible mais peut causer des goulots d'étranglement, tandis que l'architecture de Harvard est plus rapide mais moins flexible. De nombreuses architectures de processeurs modernes combinent des éléments des deux architectures pour atteindre un équilibre entre la flexibilité et la vitesse de traitement.
 
 
 
