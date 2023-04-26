@@ -5,4 +5,4 @@ Il consiste à décaler les lettres d'un message d'un décalage fixe. Quand on a
 continue le décalage avec les lettres du début.
 
 Par exemple, avec un décalage de 3
-BONJOUR  ----> ERQMRXU
+**BONJOUR  ----> ERQMRXU**
