@@ -6,3 +6,4 @@ continue le décalage avec les lettres du début.
 
 Par exemple, avec un décalage de 3
 **BONJOUR  ----> ERQMRXU**
+## Fonctionnement du système
