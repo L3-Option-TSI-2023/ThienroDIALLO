@@ -10,3 +10,13 @@ La partie programmation du robot concerne le développement du code qui permet d
 Nous avons tout d'abord commencé par régler l'asservissement du robot, c'est-à-dire nous assurer que le robot roule tout droit sans dévier de sa trajectoire.
 Pour cela, nous avons utilisé un Correcteur **PI (proportionnel et intégral)** qui nous a permis d'obtenir l'asservissement souhaité.
 
+Voici l'explication des differentes fonctions utilisées.
+
+La fonction "setup()" est exécutée au démarrage et initialise les broches, les interruptions et la minuterie pour l'asservissement.
+Les fonctions "CompteurG()" et "CompteurD()" sont des interruptions appelées lorsqu'un des encodeurs détecte un front montant.
+La fonction "Asservissement()" est l'interruption périodique qui contrôle l'asservissement des moteurs en calculant les vitesses, les erreurs et les commandes.
+Les fonctions "avance()", "recule()", "gauche()", "droite()" et "stop()" sont des commandes de mouvement du robot.
+Les fonctions "clignotantD()" et "clignotantG()" sont des clignotants pour les LEDs.
+La fonction "delais(float a)" calcule un délai en fonction de la consigne de vitesse.
+La fonction "loop()" est la boucle principale qui lit une tension d'entrée analogique, met à jour la consigne de vitesse, gère les commandes de mouvement et active ou désactive l'asservissement en fonction de l'état d'un bouton.
+
