@@ -41,21 +41,18 @@ else if(etat == 2)
     {
       etat= 0;
       //Serial.println("Etat0");
-
     }   
     
   }
-  while()
-
 
 //lire les informations dans le buffer
 buffer = Serial.available();
 //Ecrire dans une chaine.
 chaine = Serial.read();
 //Chaine crypte
-chaineCrypte = chaine + shift ;
+chaineCrypte = ((chaine + shift - 33) % 94 + 33);
 //chaine Decrypte
-chaineDecrypte = chaine - shift;
+chaineDecrypte = ((chaine - shift - 33 + 94) % 94 + 33);
 
 if(etat == 0)
 {
@@ -106,8 +103,6 @@ if(chaine == 10)
 {
   Serial.println(chaine);
 }
-      
-
 
   
   
