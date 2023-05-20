@@ -1,8 +1,14 @@
 
 int post;
 const int max = 1023;
-const int led1{26} , led2{28}, led3{30}, led4{32} ,led5{34}, led6{36}, led7{38};
-
+const int led1{26};
+const int led2{28};
+const int led3{30};
+const int led4{32};
+const int led5{34};
+const int led6{36};
+const int led7{38};
+//Je déclare un tableau pour stocker mes differentes leds
 int tab[7] = {led1, led2, led3, led4, led5, led6,led7};
 void setup() {
   // put your setup code here, to run once:
